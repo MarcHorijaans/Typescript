@@ -1,0 +1,27 @@
+{
+  "name": "typescriptSandBox",
+  "version": "1.0.0",
+  "description": "Typescript test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcHorijaans/Typescript.git"
+  },
+  "author": "Marc Horijaans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcHorijaans/Typescript/issues"
+  },
+  "homepage": "https://github.com/MarcHorijaans/Typescript#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "typescript": "^4.2.4",
+    "webpack": "^5.37.1"
+  },
+  "dependencies": {
+    "@angular/cli": "^12.0.1"
+  }
+}
